@@ -1,0 +1,6 @@
+2023/10/04-20:34:44.837 65bc Creating DB C:/Users/yusuf/OneDrive/Masaüstü/UnrealEnginePorject/FirstProject/Unreal-Engine-5-FirstProject/MyProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/10/04-20:34:44.854 65bc Reusing MANIFEST C:/Users/yusuf/OneDrive/Masaüstü/UnrealEnginePorject/FirstProject/Unreal-Engine-5-FirstProject/MyProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/04-20:40:28.882 22e8 Level-0 table #5: started
+2023/10/04-20:40:28.889 22e8 Level-0 table #5: 1166 bytes OK
+2023/10/04-20:40:28.890 22e8 Delete type=0 #3
+2023/10/04-20:40:28.891 22e8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
